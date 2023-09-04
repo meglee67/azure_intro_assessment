@@ -40,5 +40,12 @@ Using Python you are able to invoke Azure Functions Core Tools commands, such as
 
 # Database Services
 ## Azure Database for MySQL
+Azure Database for MySQL is a relational database service. It delivers:
+1. Maximum control with the ability to select your scheduled maintenance window
+2. Data protection using automatic backups
+3. Monitoring and automation to simplify management and monitoring for large-scale deployments
+These capabilites allow you to focus less on administration and are provided at no extra cost. This allows you to allocate less time and resoruces to managing virtual machines and infrastructure.
+
+Azure SDK for Python allows you to manage your Azure Database for MySQl. Using the Azure SDK you can create, configure, and manage MySQL servers and databased in Azure. You are also able to use SQL queries and Python code to interact with your MySQL database, giving the ability to do things like retrieving, inserting, updating, and deleting data. You can use Python to manage security settings and access controls for your Azure Database for MySQL, doing things like setting up firewalls, configuring virtual network service endpoints, and managing user permissions.
 
 ## Azure Database Migration Service
