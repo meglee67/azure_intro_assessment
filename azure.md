@@ -20,6 +20,14 @@ Using Python you can do things like create a control plane client library, which
 
 # Compute
 ## Azure Virtual Desktop
+Azure Virtual Desktop (AVD) is a desktop and app virtualization service that runs on the cloud. When you run the service on Azure you are able to:
+1. Set up a multi-session Windows 11 or 10 deployment, which is able to deliver a full Windows experience with scalability
+2. Present Microsoft 365 Apps and optimize them to run in multi-user virtual scenarios
+3. Bring your existing Remote Desktop Services and Windows Server desktops and apps to any computer
+4. Virtualize desktops and apps
+5. Manage desktops and apps from different Windows and OS with a unified management experience
+
+Using Python, you can interact with AVD using the Azure SDK for Python and Azure Identity Library for authentication. This enables you to create, manage, scale and automate various aspects of AVD resources. For example, you can use Python to retrieve and analyze AVD-related data and metrics, which could be used to create custom monitoring and reporting solutions. Python could also be used to manage user assignments and access control for AVD workspaces.
 
 ## Azure Functions
 
